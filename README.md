@@ -40,3 +40,9 @@ To develop,
   },
   ...
   ```
+
+Tech Stack,
+
+Web Framework | OAuth / OpenID Framework   |
+------------- | -------------------------- |
+.NET 6.0      | Duende Identity Server     |
