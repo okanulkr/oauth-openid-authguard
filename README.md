@@ -2,7 +2,7 @@
 
 Brief,
 
-1. `Client Credentials Flow` (Machine 2 machine) is used in this example.
+1. `Client Credentials Flow` (Machine 2 Machine) is used in this example.
 2. `Code as configuration` approach was used for conciseness.
 3. For the sake of example, no keys or secrets are hidden in .env files
 
