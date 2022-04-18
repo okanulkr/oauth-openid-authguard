@@ -1,4 +1,4 @@
-# OAuth/OpenID Example
+# OAuth/OpenID AuthGuard Example
 
 Brief,
 
